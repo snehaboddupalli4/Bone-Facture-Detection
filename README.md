@@ -1,0 +1,1 @@
+Using this we can find if there is any Bone Factures provoded X ray images. It helps for faster in treatment without involving humans. The model is trained  labeled data given by professionals is given to CNN model.
